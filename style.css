@@ -23,7 +23,7 @@ figcaption {
   text-align: center;
   margin:auto;
 }
-div {
+#details div {
   float: left;
   background-color: red;
   text-align: center;
